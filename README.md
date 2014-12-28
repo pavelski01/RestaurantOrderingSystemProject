@@ -1,4 +1,4 @@
-restaurant_ordering_system
+RestaurantOrderingSystemProject
 ==========================
 
-simple desktop application
+Description: simple desktop application (handwriting)
