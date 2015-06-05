@@ -1,3 +1,5 @@
+package bulk;
+
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 

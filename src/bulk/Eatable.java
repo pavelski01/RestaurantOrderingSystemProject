@@ -1,3 +1,4 @@
+package bulk;
 
 public class Eatable {
 	
