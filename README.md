@@ -1,4 +1,4 @@
 RestaurantOrderingSystemProject
 ===============================
 
-Description: Simple desktop application (handwriting)
+Description: Simple desktop application (handwrite)
